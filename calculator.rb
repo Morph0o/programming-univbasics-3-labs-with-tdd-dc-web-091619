@@ -1,2 +1,3 @@
-def calculator(first_number,secondnumber)
+def calculator
+  first_number = 
   sum = first_number + secondnumber
